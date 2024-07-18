@@ -1,2 +1,2 @@
-# evergardener.github.io
-Hexo 博客
+# Hexo Comments
+Hexo 评论
